@@ -7,4 +7,5 @@ In food production it is important to properly label ingredients for both health
 ### Data:
 Obtained from DATASETS (muratkoklu.com) and used in M. Koklu, R. Kursun, Y.S. Taspinar, and I. Cinar, "Classification of Date Fruits into Genetic Varieties Using Image Analysis," Mathematical Problems in Engineering, Vol.2021, Article ID: 4793293 (2021).
 
-### Objective: To determine the variety of date fruit from data describing the colour, length, diameter, and shape.
+### Objective: 
+To determine the variety of date fruit from data describing the colour, length, diameter, and shape.
